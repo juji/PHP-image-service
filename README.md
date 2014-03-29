@@ -21,7 +21,7 @@ Extract the files in your preferred directory. Such as `/img`
 
 Change `Variables.php` to your preference.
 
-```
+```php
 define('IMAGEDIR','image/');    //relative to current directory, with backslash
 define('CACHEDIR','tmp/');      //relative to current directory, with backslash
 define('CACHETIME',1000);       //in seconds
