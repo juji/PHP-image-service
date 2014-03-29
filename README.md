@@ -1,7 +1,7 @@
 PHP Image Service
 =================
 
-Is a PHP server for serving, resizing images at run-time.<br />
+Is a PHP server for serving and resizing images on the fly.<br />
 It also adds filtering capabilities like instagram.
 
 <br />
@@ -15,7 +15,7 @@ PHP 5+, GD
 
 ##example
 
-For example, if you installed your image in the `img/` folder:
+For example, if you installed the files in the `img/` folder:
 
 **Original Image** &nbsp; `http://example.com/img/image.jpg`
 
