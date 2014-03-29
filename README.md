@@ -9,6 +9,10 @@ Filtering algo by [marchibbins](https://github.com/marchibbins)<br />
 [https://github.com/marchibbins/GD-Filter-testing](https://github.com/marchibbins/GD-Filter-testing)
 
 
+##Requirement
+PHP 5+, GD
+
+
 ##example
 
 For example, if you installed your image in the `img/` folder:
