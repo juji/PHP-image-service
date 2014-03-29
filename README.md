@@ -16,7 +16,20 @@ Filtering algo by [marchibbins](https://github.com/marchibbins)<br />
 PHP 5+, GD
 
 
-##example
+##Installation
+Extract the files in your preferred directory. Such as `/img`
+
+Change `Variables.php` to your preference.
+
+```
+define('IMAGEDIR','image/');    //relative to current directory, with backslash
+define('CACHEDIR','tmp/');      //relative to current directory, with backslash
+define('CACHETIME',1000);       //in seconds
+```
+
+Done.
+
+##Usage
 
 For example, if you installed the files in the `img/` folder:
 
@@ -34,7 +47,7 @@ For example, if you installed the files in the `img/` folder:
 
 **Filter and resize image** : `http://example.com/img/vintage/300x400/image.jpg`
 
-**Filter and Crop image** : `http://example.com/img/vintage/300x400/center/image.jpg`
+**Filter and Crop image** : `http://example.com/img/vintage/300x400/image.jpg`
 
 <br /><br />
 The crop parameter accept these values
