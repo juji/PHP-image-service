@@ -2,9 +2,10 @@ PHP Image Service
 =================
 
 Is a PHP image server with image processing capabilities on the fly: 
-1. resizing images on the fly.
-2. cropping images on the fly.
-3. filtering capabilities like instagram.
+
+1. resize
+2. crop
+3. instagram-like filters
 
 <br />
 Filtering algo by [marchibbins](https://github.com/marchibbins)<br />
