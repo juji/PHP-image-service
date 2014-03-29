@@ -29,6 +29,11 @@ define('CACHETIME',1000);       //in seconds
 
 Done.
 
+
+Optionally, run `cleancache.php` as a cronjob to clean cache directory.
+<br />
+
+
 ##Usage
 
 For example, if you installed the files in the `img/` folder:
