@@ -52,7 +52,7 @@ For example, if you installed the files in the `img/` folder:
 
 **Filter and resize image** : `http://example.com/img/vintage/300x400/image.jpg`
 
-**Filter and Crop image** : `http://example.com/img/vintage/300x400/image.jpg`
+**Filter and Crop image** : `http://example.com/img/vintage/300x400/center/image.jpg`
 
 <br /><br />
 The crop parameter accept these values
